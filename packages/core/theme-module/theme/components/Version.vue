@@ -11,7 +11,7 @@
 export default {
   setup() {
     const { version, lastCommit } = process.VERSION;
-    const address = `https://github.com/DivanteLtd/next/commit/${lastCommit}`;
+    const address = `https://github.com/SalvadorLtd/next/commit/${lastCommit}`;
     const link = lastCommit.substr(0, 7);
 
     return {

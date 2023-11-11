@@ -200,7 +200,7 @@
           :total="totalPages"
           :visible="5"
         />
-        <!-- TODO: change accordingly when designed by UI team: https://github.com/DivanteLtd/storefront-ui/issues/941 -->
+        <!-- TODO: change accordingly when designed by UI team: https://github.com/SalvadorLtd/storefront-ui/issues/941 -->
         <div
           v-show="totalPages > 1"
           class="products__pagination__options"
@@ -323,7 +323,7 @@ const sortByOptions = [
   { value: 'price-down', label: 'Price from high to low' }
 ];
 
-// TODO: to be implemented in https://github.com/DivanteLtd/next/issues/200
+// TODO: to be implemented in https://github.com/SalvadorLtd/next/issues/200
 const filters = {
   collection: [
     { label: 'Summer fly', value: 'summer-fly', count: '10', selected: false },
@@ -356,7 +356,7 @@ const filters = {
   ]
 };
 
-// TODO: to be implemented in https://github.com/DivanteLtd/next/issues/211
+// TODO: to be implemented in https://github.com/SalvadorLtd/next/issues/211
 const breadcrumbs = [
   { text: 'Home', route: { link: '#' } },
   { text: 'Women', route: { link: '#' } }
@@ -629,7 +629,7 @@ export default {
       flex: 1 1 25%;
     }
   }
-  // TODO: change accordingly when designed by UI team: https://github.com/DivanteLtd/storefront-ui/issues/941, https://github.com/DivanteLtd/storefront-ui/issues/1001
+  // TODO: change accordingly when designed by UI team: https://github.com/SalvadorLtd/storefront-ui/issues/941, https://github.com/SalvadorLtd/storefront-ui/issues/1001
   &__pagination__options {
     display: flex;
     justify-content: center;

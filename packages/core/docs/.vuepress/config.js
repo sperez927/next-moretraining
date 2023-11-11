@@ -8,16 +8,16 @@ module.exports = {
       { text: 'Shopware', items: [
         { text: 'Documentation' , link: 'https://shopware-pwa-docs.netlify.com/#introduction-to-shopware-pwa'},
         { text: 'Demo' , link: 'https://shopware-pwa.storefrontcloud.io/'},
-        { text: 'GitHub' , link: 'https://github.com/DivanteLtd/shopware-pwa'}
+        { text: 'GitHub' , link: 'https://github.com/SalvadorLtd/shopware-pwa'}
       ]},
       { text: 'Magento', items: [
         { text: 'Documentation' , link: 'https://docs.vuestorefront.io/'},
         { text: 'Demo' , link: 'https://demo.vuestorefront.io/'},
-        { text: 'GitHub' , link: 'https://github.com/DivanteLtd/vue-storefront'}
+        { text: 'GitHub' , link: 'https://github.com/SalvadorLtd/vue-storefront'}
       ]},
       { text: 'Integration tutorial', link: '/integration/' },
       { text: 'Demo', link: 'https://vsf-next-demo.storefrontcloud.io' },
-      { text: 'Github', link: 'https://github.com/DivanteLtd/next' },
+      { text: 'Github', link: 'https://github.com/SalvadorLtd/next' },
     ],
     sidebar: {
       '/commercetools/': [

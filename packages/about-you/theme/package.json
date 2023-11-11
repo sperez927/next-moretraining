@@ -1,7 +1,7 @@
 {
   "name": "@vue-storefront/about-you-theme",
   "description": "My breathtaking Nuxt.js project",
-  "author": "Łukasz Romanowicz",
+  "author": "Salvador Perez",
   "version": "0.0.1",
   "private": true,
   "scripts": {

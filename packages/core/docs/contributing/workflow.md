@@ -22,8 +22,9 @@ The RFC needs approval from at least 2 core team members to enter Stage 2.
 
 Once RFC is aporoved another Pull Request should be made. This time it should contain the implementation of proposed APIs but **without updating other packages/projects depending on it (so no changes in theme or integrations, just implementation of new API)** 
 
-This implementation needs to be accepted by 3 core team members:
+This implementation needs to be accepted by 4 core team members:
 
+- Salvador Perez (@salvador)
 - Filip Rakowski (@filrak)
 - Patryk Tomczyk (@patzick)
 - Patryk Andrzejewski (@andrzejewsky)
@@ -36,7 +37,7 @@ Once we are sure that implementation of the API is done right the only thing tha
 
 You should do this as a Pull Request to your feature branch.
 
-This implementation also needs to be accepted by 3 core team members.
+This implementation also needs to be accepted by 4 core team members.
 
 Once it's acceptet we are first merging it to target feature branch, then removing `blocked` label from it and merging as well.
 

@@ -93,7 +93,7 @@ export function useUserFactory<USER, UPDATE_USER_PARAMS, REGISTER_USER_PARAMS ex
       }
     };
 
-    // Temporary enabled by default, related rfc: https://github.com/DivanteLtd/next/pull/330
+    // Temporary enabled by default, related rfc: https://github.com/SalvadorLtd/next/pull/330
     onSSR(async () => {
       if (!user.value) {
         await refreshUser();

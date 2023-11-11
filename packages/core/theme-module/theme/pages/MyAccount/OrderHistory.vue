@@ -38,7 +38,7 @@
     <SfTab title="Returns">
       <p class="message">
         This feature is not implemented yet! Please take a look at<br />
-        <a href="#">https://github.com/DivanteLtd/vue-storefront/issues for our Roadmap!</a>
+        <a href="#">https://github.com/SalvadorLtd/vue-storefront/issues for our Roadmap!</a>
       </p>
     </SfTab>
   </SfTabs>

@@ -2652,7 +2652,7 @@ input ExternalLineItemTotalPriceDraft {
 type ExternalOAuth {
   url: String!
   authorizationHeader: String!
-}
+}s
 
 input ExternalOAuthDraft {
   url: String!
